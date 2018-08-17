@@ -1,0 +1,19 @@
+
+.squareList {
+    list-style-type: square;
+}
+.menuList {
+    list-style-type: none;
+    text-transform: uppercase;
+
+}
+.menuList li {
+    float: left;
+    text-align: center;
+}
+.menuList li a {
+    text-decoration:none;
+    color:#116493;
+    display: block;
+    padding: 16px;
+}
