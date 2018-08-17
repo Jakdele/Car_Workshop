@@ -4,4 +4,6 @@ Because of that I decided to allow the user to input the date and time as string
 
 LocalDates, wherever they're used, are working as intended, generating a pop-up with date picker on click.
 
+User is able to search clients by name using the search bar, which is available from all pages.
+
 TO DO - implement a universally working date-time picker.
